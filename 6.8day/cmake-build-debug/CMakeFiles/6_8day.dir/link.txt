@@ -1,0 +1,1 @@
+D:\Cfree\C-FREE~1\mingw\bin\gcc.exe -g -Wl,@CMakeFiles\6_8day.dir\objects1.rsp -o 6_8day.exe -Wl,--out-implib,lib6_8day.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
